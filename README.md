@@ -31,10 +31,11 @@ Users should be able to:
   <img src="assets/images/screenshot/desktop-screenshot.png">
   <img src="assets/images/screenshot/mobile-screenshot.png" style="width: 20rem;">
 </div>
+
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/prem-03829/Blog-preview-card)
-- Live Site URL: [Vercel link](https://your-live-site-url.com)
+- Live Site URL: [Vercel link](https://blog-preview-card-one-mu.vercel.app/)
 
 ## My process
 
